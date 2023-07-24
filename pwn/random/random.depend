@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644912628 source:/mnt/myhome/behruz/University/Programming/pwn/random/main.c
+	<stdio.h>
+	<stdlib.h>
+

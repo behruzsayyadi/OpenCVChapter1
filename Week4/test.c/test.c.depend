@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640850985 source:/home/behruz/MyHome/behruz/University/Programming/Week4/test.c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641899290 source:/mnt/myhome/behruz/University/Programming/Week4/test.c/main.c
+	<stdio.h>
+	<string.h>
+

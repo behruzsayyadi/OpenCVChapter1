@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655375849 source:/mnt/myhome/behruz/University/Programming/pwn/mabani2/main.cpp
+	<iostream>
+	<string>
+

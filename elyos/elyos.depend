@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686860704 source:d:\university\programming\elyos\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

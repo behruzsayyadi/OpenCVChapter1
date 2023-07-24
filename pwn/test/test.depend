@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641711841 source:/mnt/myhome/behruz/University/Programming/pwn/test/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
